@@ -1,0 +1,3 @@
+add_library(TreeAVL TreeAVL.hpp TreeAVL.cpp)
+
+target_link_libraries(TreeAVL PUBLIC NodeAVL)

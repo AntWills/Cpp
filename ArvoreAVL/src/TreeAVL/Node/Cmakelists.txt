@@ -1,0 +1,1 @@
+add_library(NodeAVL Node.hpp Node.cpp)
